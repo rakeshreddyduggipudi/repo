@@ -6,3 +6,4 @@ Third Line
 >>>>>>> parent of 6b4050b... Second Git Commit
 =======
 >>>>>>> parent of 6b4050b... Second Git Commit
+Third Line
